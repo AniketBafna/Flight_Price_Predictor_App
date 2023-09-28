@@ -1,2 +1,2 @@
-# Flight_Price_Predictor_App
+# Flight_Price_Prediction
  
